@@ -1,4 +1,4 @@
-package com.test;
+package com.test.blind2018.level2;
 
 /*
  * 테스트명 : 캐시

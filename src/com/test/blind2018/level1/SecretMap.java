@@ -1,4 +1,4 @@
-package com.test;
+package com.test.blind2018.level1;
 
 /*
  * 테스트명 : 비밀지도
