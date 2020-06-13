@@ -1,11 +1,11 @@
 # ProgrammersKakao
 
-- 목록
+- 프로그래머스 카카오 블라인드채용 문제풀어보기
 
   ## blind2018
     - level1
-      - [다트게임](https://github.com/wjdrhkd456/ProgrammersKakao/tree/master/src/com/test/blind2018/level1/DartGame.java)
-      - [비밀지도](https://github.com/wjdrhkd456/ProgrammersKakao/tree/master/src/com/test/blind2018/level1/SecretMap.java)
+      - [다트게임](https://github.com/wjdrhkd456/ProgrammersKakao/tree/master/src/com/test/blind2018/level1/DartGame.java)(완성)
+      - [비밀지도](https://github.com/wjdrhkd456/ProgrammersKakao/tree/master/src/com/test/blind2018/level1/SecretMap.java)(완성)
     - level2
       - [캐시](https://github.com/wjdrhkd456/ProgrammersKakao/tree/master/src/com/test/blind2018/level2/Cache.java)
       - [파일명정렬1](https://github.com/wjdrhkd456/ProgrammersKakao/tree/master/src/com/test/blind2018/level2/FileNameSorting.java)
