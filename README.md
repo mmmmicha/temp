@@ -1,6 +1,7 @@
 # ProgrammersKakao
 
-- 프로그래머스 카카오 블라인드채용 문제풀어보기
+- link : [프로그래머스](https://programmers.co.kr/)
+- 프로그래머스 카카오 블라인드채용 알고리즘 공부
 
   ## blind2018
     - level1
